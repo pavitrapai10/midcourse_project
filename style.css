@@ -1,0 +1,58 @@
+#div1 {
+background-image: url(https://cdn.pixabay.com/photo/2023/12/15/03/11/basket-to-the-sea-8449952_1280.jpg);
+height: 300px;
+width: 200px;
+margin: 20px;
+}
+#div2 {
+background-image: url(https://cdn.pixabay.com/photo/2024/05/24/19/06/bird-8785666_1280.jpg);
+height: 300px;
+width: 200px;
+margin: 20px;
+}
+#div3 {
+background-image: url(https://cdn.pixabay.com/photo/2024/01/02/10/33/stream-8482939_1280.jpg);
+height: 300px;
+width: 200px;
+margin: 20px;
+}
+#div4 {
+background-image: url(https://cdn.pixabay.com/photo/2024/01/05/17/39/banana-leaf-8489887_1280.jpg);
+height: 300px;
+width: 200px;
+margin: 20px;
+}
+#div5 {
+background-image: url(https://cdn.pixabay.com/photo/2023/12/13/15/24/st-isaacs-cathedral-8447100_1280.jpg);
+height: 300px;
+width: 200px;
+margin: 20px;
+}
+#div6 {
+background-image: url(https://cdn.pixabay.com/photo/2023/09/05/14/39/old-8235289_1280.jpg);
+height: 300px;
+width: 200px;
+margin: 20px;
+}
+div.container {
+border: 5px solid #555;
+}
+.flex {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.selected {
+border: 5px solid rgb(0, 195, 255);
+}
+
+p {
+    text-align: center;
+}
+button {
+margin: 20px;
+}
+.selected {
+    opacity: 0.5;
+    border: 5px solid rgb(0, 195, 55);
+}
